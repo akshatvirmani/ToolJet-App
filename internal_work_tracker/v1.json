@@ -5,7 +5,7 @@
         "appV2": {
           "type": "front-end",
           "id": "bc98d615-47ad-4746-ad32-ddac21da8adb",
-          "name": "work_tracker",
+          "name": "internal_work_tracker",
           "slug": "bc98d615-47ad-4746-ad32-ddac21da8adb",
           "isPublic": false,
           "isMaintenanceOn": false,
@@ -17,7 +17,7 @@
           "workflowEnabled": false,
           "createdAt": "2025-03-10T05:54:36.462Z",
           "creationMode": "DEFAULT",
-          "updatedAt": "2025-03-10T05:54:36.462Z",
+          "updatedAt": "2025-03-10T06:14:38.184Z",
           "editingVersion": {
             "id": "0b5c5bf5-8bbc-4d62-bf06-93238c6c359f",
             "name": "v1",
